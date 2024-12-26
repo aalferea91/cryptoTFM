@@ -1,7 +1,7 @@
 ---
 title: "crypto-TFM"
 type: "project"
-tags: MBIT, lambda, AWS, S3, python, prefect, athena, power bi
+tags: MBIT, lambda, AWS, S3, python, prefect, athena, powerbi
 
 ---
 
